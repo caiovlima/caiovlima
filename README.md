@@ -10,7 +10,7 @@
 
   
 
-My name is Caio Vinicius De Lima, fullstack developer and tech lover!
+My name is Caio Vinicius De Lima, fullstack developer, writer, skater and tech lover!
   
 
 - :man_technologist: Fullstack Developer.
