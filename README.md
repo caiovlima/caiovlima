@@ -3,7 +3,7 @@
 
   
 ## :globe_with_meridians: Find Me Aroud The Web
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/caiovlima)](https://github.com/caiovlima)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caioviniciuslima/)](https://www.linkedin.com/in/caioviniciuslima/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contatocaiovlimat@gmail.com)](mailto:contatocaiovlima@gmail.com) [![WordPress Badge](https://img.shields.io/badge/-Hobby-green?style=flat&logo=WordPress&logoColor=white&link=https://hqscomcafe.com.br)](https://hqscomcafe.com.br)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/caiovlima)](https://github.com/caiovlima)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caioviniciuslima/)](https://www.linkedin.com/in/caioviniciuslima/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contatocaiovlimat@gmail.com)](mailto:contatocaiovlima@gmail.com) [![WordPress Badge](https://img.shields.io/badge/-Hobby-green?style=flat&logo=WordPress&logoColor=white&link=https://hqscomcafe.com.br)](https://hqscomcafe.com.br) [![Medium Badge](https://img.shields.io/badge/-Writer-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@caiiovlima)](https://medium.com/@caiiovlima)
   
 
 ## Hello World! 👋
